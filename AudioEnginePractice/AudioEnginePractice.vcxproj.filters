@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AudioEnginePractice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\AkDefaultIOHookBlocking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\AkDefaultIOHookDeferred.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkDefaultLowLevelIODispatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFileLocationBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFilePackage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFilePackageLUT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkMultipleFileLocation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\AkDefaultIOHookBlocking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\AkDefaultIOHookDeferred.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\AkFileHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\AkFilePackageLowLevelIOBlocking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\AkFilePackageLowLevelIODeferred.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkAtomic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkBytesCount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkBytesMem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkCallback.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkCommonDefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkDefaultLowLevelIODispatcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkDynamicDialogue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkDynamicSequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFileHelpersBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFileLocationBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFilePackage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFilePackageLowLevelIO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFilePackageLUT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFPUtilities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkMemoryMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkMidiTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkMidiWwiseCmds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkMultipleFileLocation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkQueryParameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkSimd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkSimdMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkSoundEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkSoundEngineExport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkSpeakerConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkSpeakerVolumes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkStreamMgrModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkVirtualAcoustics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\IAkMixerPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\IAkPlatformContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\IAkPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\IAkPluginMemAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\IAkProcessorFeatures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\IAkRTPCSubscriber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\IAkStreamMgr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Win32\stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\ak.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2021.1.4.7707\SDK\include\AK\SoundEngine\Common\AkFilePackageLowLevelIO.inl">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
